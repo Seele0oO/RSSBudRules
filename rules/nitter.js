@@ -1,8 +1,8 @@
 ({
     "twitter.com": {
-        _name: "Twitter",
+        _name: "Twitter ktachibana",
         ".": [{
-            title: "Tweets",
+            title: "R18 Tweets",
             docs: "https://github.com/zedeus/nitter",
             source: "/:id",
             targetType: "url",
@@ -13,7 +13,7 @@
             }
         },
         {
-            title: "Tweets & Replies",
+            title: "R18 Tweets & Replies",
             docs: "https://github.com/zedeus/nitter",
             source: "/:id",
             targetType: "url",
@@ -24,7 +24,7 @@
             }
         },
         {
-            title: "Media",
+            title: "R18 Media",
             docs: "https://github.com/zedeus/nitter",
             source: "/:id",
             targetType: "url",
